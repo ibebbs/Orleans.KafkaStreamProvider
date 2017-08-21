@@ -1,0 +1,1 @@
+powershell.exe ./CakeBuild.ps1 -Target Package
